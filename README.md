@@ -1,3 +1,3 @@
 Portfolio Link
 
-https://kushagra2198.github.io/Portfolio-k/
+https://adiuj.github.io/PersonalPortfolio/
